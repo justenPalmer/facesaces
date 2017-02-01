@@ -38,7 +38,7 @@ Players pick up their kept draft cards. This becomes their hand through the tric
 
  	1. Deal 1 (then 2,3,4) trick card(s) face up in the middle of the table in a horizontal row (board)
  	2. The highest total suit value on the board is trump
- 	3. Players select 1 or more card(s) from their hand and place them face down near the trick cards (on the side of the board facing the player)
+ 	3. Players select 1 card from their hand and place them face down near the trick cards (on the side of the board facing the player)
  	4. Once all players have placed, reveal the cards
  	5. Highest played draft cards win the trick cards
  	6. Winner stacks trick cards face up on the table (all won tricks go in the same pile)
