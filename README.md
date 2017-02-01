@@ -45,15 +45,13 @@ Players pick up their kept draft cards. This becomes their hand through the tric
  	7. Repeat steps 1 through 6 for drawing 2, 3, then 4 trick cards
 
 ### Trump
-
- The trick cards on the board determine which suit becomes trump. Count the values for each suit, the highest value suit is trump. If there is a tie, no suit is trump. Examples:
+The trick cards on the board determine which suit becomes trump. Count the values for each suit, the highest value suit is trump. If there is a tie, no suit is trump. Examples:
 
 	- (3C,4S): Spades is trump
 	- (2C,5C,6D): Clubs is trump
 	- (2H,5H,3D,4D): Tie - no trump
 
 ### Winning tricks
-
 The highest played draft card or set of cards wins the trick. To analyze who wins, do the following:
 
 	1. If a player played a Joker and another player played a Jack of a suit matching any trick card on the board; the highest suited jack wins the trick. 
@@ -62,7 +60,6 @@ The highest played draft card or set of cards wins the trick. To analyze who win
 	4. The highest card (according to the ordering) wins the trick
 
 ### Ordering
-
 Draft cards in FOJ have an ordering of highest to lowest. Aces are considered high and Jacks low. In the absense of trump, suits are ranked lowest to highest - clubs, diamonds, hearts, spades.
 
 ## WINNING
