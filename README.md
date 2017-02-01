@@ -60,7 +60,7 @@ The highest played draft card or set of cards wins the trick. To analyze who win
 	4. The highest card (according to the ordering) wins the trick
 
 ### Ordering
-Draft cards in FOJ have an ordering of highest to lowest. Aces are considered high and Jacks low. In the absense of trump, suits are ranked lowest to highest - clubs, diamonds, hearts, spades.
+Draft cards in FOJ have an ordering of rank for winning tricks. Aces are considered high and Jacks low. In the absense of trump, suits are ranked lowest to highest - clubs, diamonds, hearts, spades.
 
 ## WINNING
 
