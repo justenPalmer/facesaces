@@ -49,7 +49,7 @@ Players pick up their kept draft cards. This becomes their hand through the tric
  	6. Winner stacks trick cards face up on the table (all won tricks go in the same pile)
  	7. Repeat steps 1 through 6 for drawing 2, 3, then 4 trick cards
 
- ## WINNING
+## WINNING
 
 At the end of 3 rounds, all players make the best 5 card poker hand with their won trick cards. The best poker hand wins.
 
