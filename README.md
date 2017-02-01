@@ -44,7 +44,7 @@ Players pick up their kept draft cards. This becomes their hand through the tric
  	6. Winner stacks trick cards face up on the table (all won tricks go in the same pile)
  	7. Repeat steps 1 through 6 for drawing 2, 3, then 4 trick cards
 
- ### Trump
+### Trump
 
  The trick cards on the board determine which suit becomes trump. Count the values for each suit, the highest value suit is trump. If there is a tie, no suit is trump. Examples:
 
